@@ -16,16 +16,16 @@ Here are some key tools and features included in these plans:
 
 - Reporting and Tracking: Enables administrators to monitor and investigate email traffic for potential fraudulent activity or unusual patterns.
 
-For organizations seeking more robust enterprise-grade security, the Microsoft 365 E5 plan is a great choice as it offers the most comprehensive security features.
+The Microsoft 365 E5 plan is a great choice for organizations seeking more robust enterprise-grade security, as it offers the most comprehensive security features.
 
-![Alt text](/relative/path/to/img.jpg?raw=true "choosing the right plan")
+![Alt text](https://github.com/Chioma-Isiekwene/platform-contoso-fraudulent-email/blob/main/choosing%20the%20right%20plan.JPG))
 
 ## Connect the workplace 
 Go to http://security.microsoft.com/
 Choose a workplace (enter the  name of the workplace. E.g Contoso)
-![Alt text](/relative/path/to/img.jpg?raw=true "choose a work place")
+![Alt text](https://github.com/Chioma-Isiekwene/platform-contoso-fraudulent-email/blob/7b2265e5d20c53d8858af3719018f66bdc778abf/choose%20a%20work%20place.JPG))
 Either of this two plan will suffice for the size of the organization. 
-
+![Alt text](https://github.com/Chioma-Isiekwene/platform-contoso-fraudulent-email/blob/7b2265e5d20c53d8858af3719018f66bdc778abf/choose%20a%20work%20place.JPG))
 Review and finish workplace connection.
 
 This solution takes you through the configuration of that foundation in these steps:
